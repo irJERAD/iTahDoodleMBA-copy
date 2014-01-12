@@ -442,6 +442,7 @@
 				D4DABF85185D95F5003FADD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4DABF86185D95F5003FADD9 /* Build configuration list for PBXNativeTarget "iTahDoodleMBATests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +451,7 @@
 				D4DABF88185D95F5003FADD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
